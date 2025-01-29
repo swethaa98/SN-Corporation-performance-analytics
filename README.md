@@ -12,8 +12,18 @@ Power BI [Dashboard](
 - Customer and sub-category performance insights
 - Geographic visualization of business operations.
 - Regional quantity analysis
-- Trends in orders by time and shipping mode
+- Trends in orders by time and shipping mode.
+  
+### Insights Deep Dive
+- A total of238 orders were placed in the third quarter of 2024 through the Economy shipping mode. Economy shipping has consistently been the most preferred option each year while Immediate shipping mode was the least preferred.
+- 
 
+
+![PB Dashboard](https://github.com/user-attachments/assets/80557d15-88ae-4075-a7ad-94e499223dea)
+
+
+
+### Executive Summary
 
 
 

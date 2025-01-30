@@ -36,8 +36,10 @@ df["Ship Mode"]= df["Ship Mode"].str.replace('Ecnmy','Economy')
 - Trends in orders by time and shipping mode.
   
 ### Insights Deep Dive
-- A total of238 orders were placed in the third quarter of 2024 through the Economy shipping mode. Economy shipping has consistently been the most preferred option each year while Immediate shipping mode was the least preferred.
-- 
+
+- The count of orders through the Economy shipping mode shows a steady growth pattern over the years, making it the most preferred shipping mode, whereas the Immediate shipping mode is the least preferred by customers. This suggests that customers tend to favor cost-effective shipping options with occasional demand for faster delivery services.
+- Bookcases recorded the highest sales, totaling 274K units. France contributed the most to these sales with 59K units sold. They were sold the most in the year 2024.
+- The Central region accounted for 55.11% of sales, while the North and South contributed 22.72% and 22.17%.
 
 
 ![PB Dashboard](https://github.com/user-attachments/assets/80557d15-88ae-4075-a7ad-94e499223dea)

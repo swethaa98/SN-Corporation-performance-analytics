@@ -46,9 +46,11 @@ df["Ship Mode"]= df["Ship Mode"].str.replace('Ecnmy','Economy')
 
 ![PB Dashboard](https://github.com/user-attachments/assets/80557d15-88ae-4075-a7ad-94e499223dea)
 
-
-
-### Executive Summary
+### Recommendations
+- Optimize costs for immediate and priority shipping modes to make them more attractive to customers.
+- Launch marketing campaigns to attract more customers in the Central and North regions.
+- Allocate more resources to top performing sub-categories(Bookcases and Chairs) to further boost revenue and investigate underperforming categories for potential optimization or discontinuation.
+- Create loyalty programs for big customers and encourage smaller ones to buy more.
 
 
 

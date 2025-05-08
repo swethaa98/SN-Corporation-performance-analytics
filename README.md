@@ -1,4 +1,4 @@
-# SN-Corporation-performance-analytics
+# SN-Corporation-performance-analytics(Power BI Project)
 ### Project Overview
 SN Corp is a company that sells products worldwide. 
 The company has significant amounts of data on its sales, operational efficiency and product offerings. This project thoroughly analyzes this data in order to uncover critical insights that will improve the company's success.
